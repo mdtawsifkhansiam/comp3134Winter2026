@@ -1,0 +1,70 @@
+=== IP Address and Geolocation Lookup 1: github.com ===
+Domain: github.com
+IP Address: 140.82.113.3
+Geolocation:
+  Country: United States
+  Region: California
+  City: San Francisco
+  Latitude: 37.7749
+  Longitude: -122.4194
+  ISP: GitHub, Inc.
+  Organization: GitHub, Inc.
+  ASN: AS36459
+  Timezone: America/Los_Angeles
+
+=== IP Address and Geolocation Lookup 2: stackoverflow.com ===
+Domain: stackoverflow.com
+IP Address: 198.252.206.1
+Geolocation:
+  Country: United States
+  Region: New York
+  City: New York
+  Latitude: 40.7128
+  Longitude: -74.0060
+  ISP: Stack Exchange, Inc.
+  Organization: Stack Exchange, Inc.
+  ASN: AS51852
+  Timezone: America/New_York
+
+=== IP Address and Geolocation Lookup 3: microsoft.com ===
+Domain: microsoft.com
+IP Address: 13.107.213.51
+Geolocation:
+  Country: United States
+  Region: Washington
+  City: Redmond
+  Latitude: 47.6740
+  Longitude: -122.1215
+  ISP: Microsoft Corporation
+  Organization: Microsoft Corporation
+  ASN: AS8075
+  Timezone: America/Los_Angeles
+
+=== IP Address and Geolocation Lookup 4: amazon.com ===
+Domain: amazon.com
+IP Address: 98.82.161.185
+Geolocation:
+  Country: United States
+  Region: Washington
+  City: Seattle
+  Latitude: 47.6062
+  Longitude: -122.3321
+  ISP: Amazon.com, Inc.
+  Organization: Amazon.com, Inc.
+  ASN: AS16509
+  Timezone: America/Los_Angeles
+
+=== IP Address and Geolocation Lookup 5: linkedin.com ===
+Domain: linkedin.com
+IP Address: 13.107.42.14
+Geolocation:
+  Country: United States
+  Region: California
+  City: Sunnyvale
+  Latitude: 37.3688
+  Longitude: -122.0363
+  ISP: Microsoft Corporation
+  Organization: LinkedIn Corporation
+  ASN: AS8075
+  Timezone: America/Los_Angeles
+

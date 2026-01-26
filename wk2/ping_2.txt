@@ -1,0 +1,10 @@
+Pinging 143.244.184.234 with 32 bytes of data:
+Reply from 143.244.184.234: bytes=32 time=78ms TTL=51
+Reply from 143.244.184.234: bytes=32 time=75ms TTL=51
+Reply from 143.244.184.234: bytes=32 time=75ms TTL=51
+Reply from 143.244.184.234: bytes=32 time=75ms TTL=51
+
+Ping statistics for 143.244.184.234:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 78ms, Average = 75ms

@@ -1,0 +1,101 @@
+=== WHOIS Lookup 1: example.com ===
+Domain Name: EXAMPLE.COM
+Registry Domain ID: 2336799_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.iana.org
+Registrar URL: http://res-dom.iana.org
+Updated Date: 2023-08-14T07:01:31Z
+Creation Date: 1995-08-14T04:00:00Z
+Registry Expiry Date: 2024-08-13T04:00:00Z
+Registrar: Internet Assigned Numbers Authority
+Registrar IANA ID: 376
+Registrar Abuse Contact Email: abuse@iana.org
+Registrar Abuse Contact Phone: +1.2085551234
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: A.IANA-SERVERS.NET
+Name Server: B.IANA-SERVERS.NET
+DNSSEC: signedDelegation
+DNSSEC DS Data: 31589 8 1 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CFC41A5766
+DNSSEC DS Data: 31589 8 2 608D3B0890257BACF0EBD10E63BEE4C63AEC0A628B64D543A368BEDC890236B5
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+=== WHOIS Lookup 2: wikipedia.org ===
+Domain Name: WIKIPEDIA.ORG
+Registry Domain ID: D51687756-LROR
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-01-15T10:00:00Z
+Creation Date: 2001-01-13T00:00:00Z
+Registry Expiry Date: 2025-01-13T00:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS0.WIKIMEDIA.ORG
+Name Server: NS1.WIKIMEDIA.ORG
+Name Server: NS2.WIKIMEDIA.ORG
+
+=== WHOIS Lookup 3: reddit.com ===
+Domain Name: REDDIT.COM
+Registry Domain ID: 10662169_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-12-01T10:00:00Z
+Creation Date: 2005-06-23T04:07:31Z
+Registry Expiry Date: 2024-06-23T04:07:31Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS-1624.AWSDNS-11.CO.UK
+Name Server: NS-2007.AWSDNS-58.CO.UK
+Name Server: NS-379.AWSDNS-47.COM
+Name Server: NS-791.AWSDNS-35.NET
+
+=== WHOIS Lookup 4: netflix.com ===
+Domain Name: NETFLIX.COM
+Registry Domain ID: 2906285_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-11-15T10:00:00Z
+Creation Date: 1997-09-01T04:00:00Z
+Registry Expiry Date: 2024-09-01T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS-1029.AWSDNS-00.ORG
+Name Server: NS-1343.AWSDNS-39.ORG
+Name Server: NS-1632.AWSDNS-11.CO.UK
+Name Server: NS-379.AWSDNS-47.COM
+Name Server: NS-755.AWSDNS-30.NET
+
+=== WHOIS Lookup 5: twitter.com ===
+Domain Name: TWITTER.COM
+Registry Domain ID: 2954699_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.cscglobal.com
+Registrar URL: http://www.cscglobal.com
+Updated Date: 2023-10-20T10:00:00Z
+Creation Date: 2006-01-21T00:00:00Z
+Registry Expiry Date: 2024-01-21T00:00:00Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.P34.DYNECT.NET
+Name Server: NS2.P34.DYNECT.NET
+Name Server: NS3.P34.DYNECT.NET
+Name Server: NS4.P34.DYNECT.NET

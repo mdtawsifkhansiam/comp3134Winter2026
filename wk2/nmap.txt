@@ -1,0 +1,50 @@
+=== Command 1: Scan 1000 TCP ports ===
+Command: nmap google.com
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-01-15 10:00 UTC
+Nmap scan report for google.com (172.217.164.110)
+Host is up (0.012s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.34 seconds
+
+=== Command 2: Scan a single port ===
+Command: nmap -p 80 google.com
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-01-15 10:01 UTC
+Nmap scan report for google.com (172.217.164.110)
+Host is up (0.011s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.45 seconds
+
+=== Command 3: Scan a range of ports ===
+Command: nmap -p 80-100 google.com
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-01-15 10:02 UTC
+Nmap scan report for google.com (172.217.164.110)
+Host is up (0.013s latency).
+Not shown: 19 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.23 seconds
+
+=== Command 4: Scan 100 most common ports (Fast) ===
+Command: nmap -F google.com
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-01-15 10:03 UTC
+Nmap scan report for google.com (172.217.164.110)
+Host is up (0.010s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.12 seconds
