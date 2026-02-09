@@ -1,0 +1,20 @@
+14:41:02.177618 IP 172.18.134.66.51584 > alphyn.canonical.com.ntp: NTPv4, Client, length 48
+14:41:02.210449 IP alphyn.canonical.com.ntp > 172.18.134.66.51584: NTPv4, Server, length 48
+14:41:06.811680 ARP, Request who-has 172.18.134.66 (00:15:5d:f8:68:5c (oui Unknown)) tell Tawsif.mshome.net, length 28
+14:41:06.811719 ARP, Reply 172.18.134.66 is-at 00:15:5d:f8:68:5c (oui Unknown), length 28
+14:41:07.392827 ARP, Request who-has Tawsif.mshome.net tell 172.18.134.66, length 28
+14:41:07.393001 ARP, Reply Tawsif.mshome.net is-at 00:15:5d:b8:30:55 (oui Unknown), length 28
+14:41:08.562759 IP Tawsif.mshome.net.55890 > 239.255.255.250.1900: UDP, length 170
+14:41:08.577019 IP Tawsif.mshome.net.55893 > 239.255.255.250.1900: UDP, length 170
+14:41:09.585650 IP Tawsif.mshome.net.55890 > 239.255.255.250.1900: UDP, length 170
+14:41:09.601015 IP Tawsif.mshome.net.55893 > 239.255.255.250.1900: UDP, length 170
+14:41:10.595718 IP Tawsif.mshome.net.55890 > 239.255.255.250.1900: UDP, length 170
+14:41:10.610904 IP Tawsif.mshome.net.55893 > 239.255.255.250.1900: UDP, length 170
+14:41:11.604062 IP Tawsif.mshome.net.55890 > 239.255.255.250.1900: UDP, length 170
+14:41:11.618900 IP Tawsif.mshome.net.55893 > 239.255.255.250.1900: UDP, length 170
+14:41:34.427342 IP 172.18.134.66.35700 > alphyn.canonical.com.ntp: NTPv4, Client, length 48
+14:41:34.459275 IP alphyn.canonical.com.ntp > 172.18.134.66.35700: NTPv4, Server, length 48
+14:41:39.320921 ARP, Request who-has 172.18.134.66 (00:15:5d:f8:68:5c (oui Unknown)) tell Tawsif.mshome.net, length 28
+14:41:39.320935 ARP, Reply 172.18.134.66 is-at 00:15:5d:f8:68:5c (oui Unknown), length 28
+14:41:39.647672 ARP, Request who-has Tawsif.mshome.net tell 172.18.134.66, length 28
+14:41:39.647821 ARP, Reply Tawsif.mshome.net is-at 00:15:5d:b8:30:55 (oui Unknown), length 28
